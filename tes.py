@@ -1,4 +1,7 @@
 def p():
-    print("World!!!")
+    """Print the greeting."""
+    print("Привет!!!")
 
-p()
+
+if __name__ == "__main__":
+    p()
