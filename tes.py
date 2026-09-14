@@ -1,1 +1,4 @@
-print("Good!!!")
+def p():
+    print("Good!!!")
+
+p()
