@@ -1,6 +1,6 @@
 def p():
     """Print the greeting."""
-    print("Hello!!!")
+    print("Привет!!!")
 
 
 if __name__ == "__main__":
